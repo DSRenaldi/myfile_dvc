@@ -1,0 +1,5 @@
+outs:
+- md5: 64954598cb047aece23f5cc026d67cd8
+  size: 235900
+  hash: md5
+  path: CharlesBookClub.csv
